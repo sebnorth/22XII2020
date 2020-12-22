@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wizytowka", "Wizytowka\Wizytowka.csproj", "{5041CD6B-6C5B-4EFB-98CE-680A21FAC7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{555B0451-0F21-41B7-8D73-FEDCD21D5F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie3", "Zadanie3\Zadanie3.csproj", "{AE59778B-0282-4DFA-AB8C-A2D4230776CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5041CD6B-6C5B-4EFB-98CE-680A21FAC7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5041CD6B-6C5B-4EFB-98CE-680A21FAC7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5041CD6B-6C5B-4EFB-98CE-680A21FAC7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5041CD6B-6C5B-4EFB-98CE-680A21FAC7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555B0451-0F21-41B7-8D73-FEDCD21D5F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555B0451-0F21-41B7-8D73-FEDCD21D5F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555B0451-0F21-41B7-8D73-FEDCD21D5F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555B0451-0F21-41B7-8D73-FEDCD21D5F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE59778B-0282-4DFA-AB8C-A2D4230776CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE59778B-0282-4DFA-AB8C-A2D4230776CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE59778B-0282-4DFA-AB8C-A2D4230776CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE59778B-0282-4DFA-AB8C-A2D4230776CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3277EFC6-9AE9-40A8-B23F-929B91E234EF}
+	EndGlobalSection
+EndGlobal
